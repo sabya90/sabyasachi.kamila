@@ -1,0 +1,21 @@
+body {
+  font-family: 'Arial', sans-serif;
+}
+#sidebar {
+  border-right: 1px solid #ddd;
+}
+#sidebar .nav-link {
+  color: #333;
+}
+#sidebar .nav-link:hover, #sidebar .nav-link.active {
+  color: #007bff;
+}
+#hero {
+  padding: 100px 0;
+}
+section {
+  padding-top: 60px;
+}
+footer {
+  background-color: #f8f9fa;
+}
